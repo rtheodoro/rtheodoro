@@ -1,8 +1,8 @@
 ## Olá, sou o Ricardo Theodoro! 
 
-- 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, na parte de tratamento de dados
-- 🌱 Trabalho bastante com R, Python e estou tentando aprender Julia
-- 💬 Estou a procura de projetos para fazer parte, para contribuir com a comunidade e aumentar meu portifólio de conhecimentos
+- 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, no OBSCOOP/USP
+- 🌱 Trabalho bastante com R, Python, SQL e LaTeX, e estou tentando aprender Julia
+- 💬 Estou a procura de projetos para fazer parte, contribuir com a comunidade e aumentar meu portifólio de conhecimento
 
 <div align="center">
   <a href="https://github.com/rtheodoro">
