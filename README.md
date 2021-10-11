@@ -1,7 +1,9 @@
 ## Olá, sou o Ricardo Theodoro! 
 
+- 📚 Graduado em Ciências Econômicas com mestrado em Controladoria e Contabilidade (FEARP/USP)
 - 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, no OBSCOOP/USP
 - 🌱 Trabalho bastante com R, Python, SQL e LaTeX, e estou tentando aprender Julia
+- 🦆 Eterno prata no CS:GO
 - 💬 Estou a procura de projetos para fazer parte, contribuir com a comunidade e aumentar meu portifólio de conhecimento
 
 <div align="center">
@@ -22,6 +24,7 @@
   <a href="https://www.linkedin.com/in/rtheodoro" target="_blank"><img src="https://img.icons8.com/office/48/000000/linkedin-circled--v2.png"/></a>
   <a href="https://www.youtube.com/channel/UCDT5QYgse4tiHDm-DiD3x8w" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
   <a href="https://twitter.com/rxtheodoro" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> 
+  <a href="https://steamcommunity.com/id/rxtheodoro" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/steam.png"/></a> 
   <a href="https://rtheodoro.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a> 
   <a href = "mailto:rtheodoro@usp.com"><img src="https://img.icons8.com/office/48/000000/email.png"/></a>
 
