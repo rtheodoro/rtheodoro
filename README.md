@@ -5,7 +5,7 @@
 - 🌱 Trabalho bastante com R, Python, SQL e LaTeX, e estou tentando aprender Julia
 - 🦆 Eterno prata no CS:GO
 - 💬 Estou a procura de projetos para fazer parte, contribuir com a comunidade e aumentar meu portifólio de conhecimento
--:envelope: rtheodoro@usp.br
+- :envelope: rtheodoro@usp.br
 
 <div align="center">
   <a href="https://github.com/rtheodoro">
