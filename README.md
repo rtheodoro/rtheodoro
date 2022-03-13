@@ -1,6 +1,6 @@
 ## Olá, sou o Ricardo Theodoro! 
 
-- 📚 Doutorando com mestrado em Controladoria e Contabilidade (USP/FEARP), mas graduado em Ciências Econômicas
+- 📚 Doutorando e mestre em Controladoria e Contabilidade (USP/FEARP), mas graduado em Ciências Econômicas
 - 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, no OBSCOOP/USP
 - 🌱 Trabalho bastante com R, Python, SQL e LaTeX, e estou tentando aprender Julia
 - 🦆 Eterno prata no CS:GO
