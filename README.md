@@ -1,10 +1,11 @@
-## Olá, sou o [Ricardo Theodoro!](https://rtheodoro.com/)
+## Olá, sou o [Ricardo Theodoro!](https://rtheodoro.com/){:target="_blank"}
 
-- 📚 Doutorando e mestre em Controladoria e Contabilidade (USP/FEARP), mas graduado em Ciências Econômicas
-- 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, no [OBSCOOP/USP](https://linktr.ee/obscoopusp)
+- 📚 Doutorando e mestre em Controladoria e Contabilidade (USP/FEARP), e graduado em Ciências Econômicas (UNIMEP)
+- 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, no [OBSCOOP/USP](https://linktr.ee/obscoopusp){:target="_blank"}
 - 🌱 Trabalho bastante com R, Python, SQL e LaTeX, e estou tentando aprender Julia
+- 📈 Sempre querendo aprender mais sobre Estatística e Econometria
+- 💬 Procurando projetos voltados para ciência de dados para fazer parte e contribuir com a comunidade
 - 🦆 Eterno prata no CS:GO
-- 💬 Estou a procura de projetos voltados para ciência de dados para fazer parte, contribuir com a comunidade e aumentar meu portifólio de conhecimento
 - :envelope: rtheodoro@usp.br
 
 <div align="center">
