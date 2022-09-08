@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, no OBSCOOP/USP
 - 🌱 Trabalho bastante com R, Python, SQL e LaTeX, e estou tentando aprender Julia
 - 🦆 Eterno prata no CS:GO
-- 💬 Estou a procura de projetos para fazer parte, contribuir com a comunidade e aumentar meu portifólio de conhecimento
+- 💬 Estou a procura de projetos voltados para ciência de dados para fazer parte, contribuir com a comunidade e aumentar meu portifólio de conhecimento
 - :envelope: rtheodoro@usp.br
 
 <div align="center">
