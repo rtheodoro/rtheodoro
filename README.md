@@ -1,7 +1,7 @@
-## Olá, sou o Ricardo Theodoro! 
+## Olá, sou o [Ricardo Theodoro!](https://rtheodoro.com/)
 
 - 📚 Doutorando e mestre em Controladoria e Contabilidade (USP/FEARP), mas graduado em Ciências Econômicas
-- 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, no OBSCOOP/USP
+- 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, no [OBSCOOP/USP](https://linktr.ee/obscoopusp)
 - 🌱 Trabalho bastante com R, Python, SQL e LaTeX, e estou tentando aprender Julia
 - 🦆 Eterno prata no CS:GO
 - 💬 Estou a procura de projetos voltados para ciência de dados para fazer parte, contribuir com a comunidade e aumentar meu portifólio de conhecimento
