@@ -1,3 +1,4 @@
+
 name: Generate Datas
 
 on:
@@ -17,10 +18,9 @@ jobs:
           github_user_name: rtheodoro
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: Platane/snk@master
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-
