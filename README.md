@@ -33,7 +33,7 @@
   <a href="https://rtheodoro.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a> 
   <a href = "mailto:rtheodoro@usp.com"><img src="https://img.icons8.com/office/48/000000/email.png"/></a>
 
-  %![Snake animation](https://github.com/rtheodoro/rtheodoro/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/rtheodoro/rtheodoro/blob/output/github-contribution-grid-snake.svg)-->
 
 </div>
 
