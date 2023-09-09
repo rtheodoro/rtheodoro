@@ -24,7 +24,7 @@
   <img align="center" alt="Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
   <img align="center" alt="LaTeX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
   <img align="center" alt="GIMP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
 ##
