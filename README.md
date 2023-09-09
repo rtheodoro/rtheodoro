@@ -2,7 +2,7 @@
 
 - 📚 Doutorando e mestre em Controladoria e Contabilidade (USP/FEARP), e graduado em Ciências Econômicas (UNIMEP)
 - 🔭 Atualmente trabalho com pesquisas voltadas ao cooperativismo, no [OBSCOOP/USP](https://linktr.ee/obscoopusp)
-- 🌱 Trabalho bastante com R, Python, SQL e LaTeX, e estou tentando aprender Julia
+- 🌱 Trabalho bastante com R, Python, SQL, Mongo e LaTeX, e estou tentando aprender Julia
 - 📈 Sempre querendo aprender mais sobre Estatística e Econometria
 - 💬 Procurando projetos voltados para ciência de dados para fazer parte e contribuir com a comunidade
 - 🦆 Eterno prata no CS:GO
