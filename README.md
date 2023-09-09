@@ -18,6 +18,7 @@
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
   <img align="center" alt="postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="mongo" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
