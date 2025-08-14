@@ -5,7 +5,6 @@
   - 🌱 Proficient in R, Python, SQL, Mongo, and LaTeX, and currently learning Julia
   - 📈 Always eager to expand my knowledge in Statistics and Econometrics
   - 💬 Looking for data science projects to join and contribute to the community
-  - 🦆 Forever a silver in CS2
   - ✉️ Contact me at rtheodoro@usp.br
 
 <div align="center">
