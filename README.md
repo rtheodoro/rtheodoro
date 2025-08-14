@@ -1,6 +1,6 @@
 ## [Ricardo Theodoro](https://rtheodoro.com/)
 
-  - 📚 Ph.D. candidate and Master's degree holder in Accounting at [USP/FEARP](http://www.fearp.usp.br/en/), with a Bachelor's degree in Economics (UNIMEP)
+  - 📚 Ph.D. candidate and Master's degree holder in Accounting at [USP/FEARP](http://www.fearp.usp.br/en/), with a Bachelor's degree in Economics
   - 🔭 Currently engaged in research related to cooperatives at [OBSCOOP/USP](https://linktr.ee/obscoopusp)
   - 🌱 Proficient in R, Python, SQL, Mongo, and LaTeX, and currently learning Julia
   - 📈 Always eager to expand my knowledge in Statistics and Econometrics
