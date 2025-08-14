@@ -8,7 +8,7 @@
   - ✉️ Contact me at rtheodoro@usp.br
   - 🌱 Vegan
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="left"><br>
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
@@ -19,13 +19,11 @@
 
 ##
 
-<div align="center"> 
+<div align="left"> 
+  <a href="https://twitter.com/rxtheodoro" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> 
   <a href="https://www.linkedin.com/in/rtheodoro" target="_blank"><img src="https://img.icons8.com/office/48/000000/linkedin-circled--v2.png"/></a>
   <a href="https://www.youtube.com/channel/UCDT5QYgse4tiHDm-DiD3x8w" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-  <a href="https://twitter.com/rxtheodoro" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> 
   <a href="https://rtheodoro.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a> 
-  <a href = "mailto:rtheodoro@usp.com"><img src="https://img.icons8.com/office/48/000000/email.png"/></a>
-
 </div>
 
 
