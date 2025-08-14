@@ -3,7 +3,7 @@
   - 📚 Ph.D. candidate and Master's degree holder in Accounting at [USP/FEARP](http://www.fearp.usp.br/), with a Bachelor's degree in Economics
   - 🔭 Currently engaged in research related to cooperatives at [OBSCOOP/USP](https://linktr.ee/obscoopusp)
   - 📈 Always eager to expand my knowledge in Statistics, Econometrics and M. L. models
-  - 🔨 Proficient in Linux, R, Python, SQL, Mongo, LaTeX, and currently learning Julia
+  - 🔨 Proficient in R, Python, SQL, Mongo, LaTeX, Linux and currently learning Julia
   - 💬 Looking for data science projects to join and contribute to the community
   - ✉️ Contact me at rtheodoro@usp.br
   - 🌱 Vegan
