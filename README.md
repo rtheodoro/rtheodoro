@@ -1,11 +1,12 @@
 ## [Ricardo Theodoro](https://rtheodoro.com/)
 
-  - 📚 Economist, Ph.D. candidate and Master's degree holder in Accounting at [USP/FEARP](http://www.fearp.usp.br/)
+  - 🎓 Economist, Ph.D. candidate and Master's degree holder in Accounting at [USP/FEARP](http://www.fearp.usp.br/)
   - 🔭 Currently engaged in research related to cooperatives at [OBSCOOP/USP](https://linktr.ee/obscoopusp)
   - 📕 Supervisor of Final Projects in DSA & Finance at [USP/Esalq MBA](https://mbauspesalq.com/)
   - 📈 Always eager to expand my knowledge in Statistics, Econometrics and M. L. models
   - 🔨 Proficient in R, Python, SQL, Mongo, LaTeX, Linux and currently learning Julia
   - 💬 Looking for data science projects to join and contribute to the community
+  - 📚 Enthusiast of Open Science and Reproducible Research
   - ✉️ Contact me at rtheodoro@usp.br
   - 🌱 Vegan
 
