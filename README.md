@@ -6,7 +6,7 @@
   - 📈 Always eager to expand my knowledge in Statistics, Econometrics and Machine Learning models
   - 🔨 Proficient in R, Python, SQL, Mongo, LaTeX, Linux and currently learning Julia
   - 💬 Looking for data science projects to join and contribute to the community
-  - 📚 Enthusiast of Open Science and Reproducible Research
+  - 📚 Enthusiast of Open Data, Open Science and Reproducible Research
   - ✉️ Contact me at rtheodoro@usp.br
   - 🌱 Vegan
 
