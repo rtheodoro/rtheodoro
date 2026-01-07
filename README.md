@@ -12,7 +12,7 @@
   - 🌱 Vegan
 
 ## Skills
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="left">
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
@@ -22,7 +22,7 @@
 </div>
 
 ## Reach me
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="left">
   <a href="https://twitter.com/rxtheodoro" target="_blank"><img height="30" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
   <a href="https://bsky.app/profile/rtheodoro.com" target="_blank"><img height="30" width="40" src="https://img.icons8.com/?size=48&id=3ovMFy5JDSWq&format=png&color=000000"/></a>
   <a href="https://www.linkedin.com/in/rtheodoro" target="_blank"><img height="30" width="40" src="https://img.icons8.com/office/48/000000/linkedin-circled--v2.png"/></a>
