@@ -22,13 +22,12 @@
 </div>
 
 ## Reach me
-
-<div align="left"> 
-  <a href="https://twitter.com/rxtheodoro" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-  <a href="https://bsky.app/profile/rtheodoro.com" target="_blank"><img src="https://img.icons8.com/?size=48&id=3ovMFy5JDSWq&format=png&color=000000"/></a>
-  <a href="https://www.linkedin.com/in/rtheodoro" target="_blank"><img src="https://img.icons8.com/office/48/000000/linkedin-circled--v2.png"/></a>
-  <a href="https://www.youtube.com/channel/UCDT5QYgse4tiHDm-DiD3x8w" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-  <a href="https://rtheodoro.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a> 
+<div style="display: inline_block" align="left"><br>
+  <a href="https://twitter.com/rxtheodoro" target="_blank"><img height="30" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+  <a href="https://bsky.app/profile/rtheodoro.com" target="_blank"><img height="30" width="40" src="https://img.icons8.com/?size=48&id=3ovMFy5JDSWq&format=png&color=000000"/></a>
+  <a href="https://www.linkedin.com/in/rtheodoro" target="_blank"><img height="30" width="40" src="https://img.icons8.com/office/48/000000/linkedin-circled--v2.png"/></a>
+  <a href="https://www.youtube.com/channel/UCDT5QYgse4tiHDm-DiD3x8w" target="_blank"><img height="30" width="40" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="https://rtheodoro.com" target="_blank"><img height="30" width="40" src="https://img.icons8.com/fluency/48/000000/domain.png"/></a> 
 </div>
 
 
