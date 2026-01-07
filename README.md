@@ -21,13 +21,9 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-## Reach me
+## Support me
 <div style="display: inline_block" align="left">
-  <a href="https://twitter.com/rxtheodoro" target="_blank"><img height="30" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-  <a href="https://bsky.app/profile/rtheodoro.com" target="_blank"><img height="30" width="40" src="https://img.icons8.com/?size=48&id=3ovMFy5JDSWq&format=png&color=000000"/></a>
-  <a href="https://www.linkedin.com/in/rtheodoro" target="_blank"><img height="30" width="40" src="https://img.icons8.com/office/48/000000/linkedin-circled--v2.png"/></a>
-  <a href="https://www.youtube.com/channel/UCDT5QYgse4tiHDm-DiD3x8w" target="_blank"><img height="30" width="40" src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-  <a href="https://rtheodoro.com" target="_blank"><img height="30" width="40" src="https://img.icons8.com/fluency/48/000000/domain.png"/></a> 
+  <a href="https://nubank.com.br/cobrar/ddat/695e7490-e957-4d60-be76-87f08a6d292c" target="_blank"><img src="https://img.icons8.com/?size=100&id=Dk4sj0EM4b20&format=png&color=000000"/></a>
 </div>
 
 
