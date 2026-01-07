@@ -11,6 +11,7 @@
   - ✉️ Contact me at rtheodoro@usp.br
   - 🌱 Vegan
 
+## Skills
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -20,7 +21,7 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-##
+## Reach me
 
 <div align="left"> 
   <a href="https://twitter.com/rxtheodoro" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
