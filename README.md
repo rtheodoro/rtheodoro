@@ -21,9 +21,9 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
-## Support me
+## Buy me a coffee
 <div style="display: inline_block" align="left">
-  <a href="https://nubank.com.br/cobrar/ddat/695e7490-e957-4d60-be76-87f08a6d292c" target="_blank"><img src="https://img.icons8.com/?size=100&id=Dk4sj0EM4b20&format=png&color=000000"/></a>
+  <a href="https://nubank.com.br/cobrar/ddat/695e7490-e957-4d60-be76-87f08a6d292c" target="_blank"><img height="50" width="50" src="https://img.icons8.com/?size=100&id=Dk4sj0EM4b20&format=png&color=000000"/></a>
 </div>
 
 
