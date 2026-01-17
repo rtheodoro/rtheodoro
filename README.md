@@ -2,7 +2,7 @@
 
   - 🎓 Economist, Ph.D. candidate and Master's degree holder in Accounting at [FEARP/USP](http://www.fearp.usp.br/)
   - 🔭 Focused on economic and accounting research on cooperatives at [OBSCOOP/USP](https://linktr.ee/obscoopusp)
-  - 📕 Supervisor of Final Projects in DSA & Finance at [USP/Esalq MBA](https://mbauspesalq.com/)
+  - 📕 Supervisor of Final Projects in DSA & Finance at [MBA USP/Esalq](https://mbauspesalq.com/)
   - 📈 Always eager to expand my knowledge in Statistics, Econometrics and Machine Learning
   - 💡 Love to chat and learn about Economics, Finance, Management, Sociology, and so on
   - 🔨 Proficient in R, Python, SQL, Mongo, LaTeX, Linux and currently learning Julia
