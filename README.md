@@ -11,7 +11,7 @@
   - 🌱 Vegan
 
 ## Skills
-<div style="display:flex; flex-wrap:nowrap; gap:8px;" align="left">
+<div style="display: inline-block" align="left">
   <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"> 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="julia" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg">
